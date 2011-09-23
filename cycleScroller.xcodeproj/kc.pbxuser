@@ -1,0 +1,212 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* cycleScroller */ = {
+		activeExec = 0;
+		executables = (
+			4AB39EC013FB9D9C00CC2AA9 /* cycleScroller */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* cycleScrollerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1039, 577}}";
+			sepNavSelRange = "{353, 0}";
+			sepNavVisRange = "{0, 602}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* cycleScrollerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1306, 2249}}";
+			sepNavSelRange = "{4468, 0}";
+			sepNavVisRange = "{2997, 432}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 4AB39EC013FB9D9C00CC2AA9 /* cycleScroller */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* cycleScroller */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* cycleScroller */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 4AB39EC713FB9DBA00CC2AA9 /* Code sense */;
+		executables = (
+			4AB39EC013FB9D9C00CC2AA9 /* cycleScroller */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					861,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					821,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 335323189;
+			PBXWorkspaceStateSaveDate = 335323189;
+		};
+		perUserProjectItems = {
+			4A96E1A813FCA390001D9966 /* PBXBookmark */ = 4A96E1A813FCA390001D9966 /* PBXBookmark */;
+			4A96E1A913FCA390001D9966 /* PBXBookmark */ = 4A96E1A913FCA390001D9966 /* PBXBookmark */;
+			4A96E1AA13FCA390001D9966 /* PBXBookmark */ = 4A96E1AA13FCA390001D9966 /* PBXBookmark */;
+			4A96E1AB13FCA390001D9966 /* PBXBookmark */ = 4A96E1AB13FCA390001D9966 /* PBXBookmark */;
+			4A96E1AC13FCA390001D9966 /* PBXBookmark */ = 4A96E1AC13FCA390001D9966 /* PBXBookmark */;
+			4A96E1AD13FCA390001D9966 /* PBXBookmark */ = 4A96E1AD13FCA390001D9966 /* PBXBookmark */;
+			4A96E1F913FCAFCD001D9966 /* PBXTextBookmark */ = 4A96E1F913FCAFCD001D9966 /* PBXTextBookmark */;
+			4A96E1FA13FCAFCD001D9966 /* PBXTextBookmark */ = 4A96E1FA13FCAFCD001D9966 /* PBXTextBookmark */;
+			4A96E1FB13FCAFCD001D9966 /* PBXTextBookmark */ = 4A96E1FB13FCAFCD001D9966 /* PBXTextBookmark */;
+			4AB39F1E13FBB57400CC2AA9 /* PlistBookmark */ = 4AB39F1E13FBB57400CC2AA9 /* PlistBookmark */;
+		};
+		sourceControlManager = 4AB39EC613FB9DBA00CC2AA9 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4A96E1A813FCA390001D9966 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4AB39EDA13FB9E5A00CC2AA9 /* image5.jpg */;
+	};
+	4A96E1A913FCA390001D9966 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4AB39ED913FB9E5A00CC2AA9 /* image4.jpg */;
+	};
+	4A96E1AA13FCA390001D9966 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4AB39ED813FB9E5A00CC2AA9 /* image3.jpg */;
+	};
+	4A96E1AB13FCA390001D9966 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4AB39ED713FB9E5A00CC2AA9 /* image2.jpg */;
+	};
+	4A96E1AC13FCA390001D9966 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4AB39ED613FB9E5A00CC2AA9 /* image1.jpg */;
+	};
+	4A96E1AD13FCA390001D9966 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4AB39ED513FB9E5A00CC2AA9 /* image0.jpg */;
+	};
+	4A96E1F913FCAFCD001D9966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* cycleScrollerViewController.h */;
+		name = "cycleScrollerViewController.h: 14";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 602;
+		vrLoc = 0;
+	};
+	4A96E1FA13FCAFCD001D9966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* cycleScrollerViewController.m */;
+		name = "cycleScrollerViewController.m: 51";
+		rLen = 0;
+		rLoc = 1332;
+		rType = 0;
+		vrLen = 1212;
+		vrLoc = 478;
+	};
+	4A96E1FB13FCAFCD001D9966 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* cycleScrollerViewController.m */;
+		name = "cycleScrollerViewController.m: 155";
+		rLen = 0;
+		rLoc = 4490;
+		rType = 0;
+		vrLen = 1368;
+		vrLoc = 2343;
+	};
+	4AB39EC013FB9D9C00CC2AA9 /* cycleScroller */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = cycleScroller;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	4AB39EC613FB9DBA00CC2AA9 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4AB39EC713FB9DBA00CC2AA9 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4AB39F1E13FBB57400CC2AA9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* cycleScroller-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/kc/lywork/sample/cycleScroller/cycleScroller-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+}
